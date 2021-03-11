@@ -1,4 +1,0 @@
-hemlock-berlin
-hemlock-big5
-hemlock-demographics
-hemlock-survey
